@@ -5,7 +5,8 @@
 
 数据来源于 https://github.com/zqzess/openApiData
 
-|详细信息|
-| -- |
-|![image](https://github.com/zqzess/holiday-and-chinese-almanac-calendar/assets/54464797/40968414-3e33-478e-8f3f-139defa01974)|
+|样式 1|样式 2|样式 3|
+| -- | -- | -- |
+|![image](https://github.com/zqzess/holiday-and-chinese-almanac-calendar/assets/54464797/40968414-3e33-478e-8f3f-139defa01974)|||
+|[订阅链接](https://raw.githubusercontent.com/zqzess/holiday-and-chinese-almanac-calendar/main/holidays_calendar.ics)|[订阅链接](https://raw.githubusercontent.com/zqzess/holiday-and-chinese-almanac-calendar/main/holidays_calendar_2.ics)|[订阅链接](https://raw.githubusercontent.com/zqzess/holiday-and-chinese-almanac-calendar/main/holidays_calendar_3.ics)|
 
