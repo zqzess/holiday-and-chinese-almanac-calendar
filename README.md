@@ -19,3 +19,7 @@
 |三个样式全部订阅 ios 视图|
 |--|
 |<img height="500" width="300" alt="image" src="https://github.com/zqzess/holiday-and-chinese-almanac-calendar/assets/54464797/7878a60e-cdaa-4b33-9d76-e4224fa8e5bc">|
+
+### Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=zqzess/holiday-and-chinese-almanac-calendar&type=Date)](https://star-history.com/#zqzess/holiday-and-chinese-almanac-calendar&Date)
